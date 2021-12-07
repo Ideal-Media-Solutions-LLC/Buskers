@@ -2,8 +2,6 @@
 
 ### /v1/
 
-*Access is restricted based on the cohorts of which the user has visibility based on github team visibility*
-
 #### /repos
 
 |Method|path|description|
