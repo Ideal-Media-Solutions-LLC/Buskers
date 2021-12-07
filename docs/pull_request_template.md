@@ -1,4 +1,5 @@
 A reference to a related issue in your repository.
+
 A description of the changes proposed in the pull request.
 
 
@@ -18,11 +19,12 @@ Here goes the overview; the explanation of what the PR does, make it concise.  D
 ### Before 
 
 Here goes the explanation of the previous state/ or the bug.
-(Add screenshot if necessary)
+(Add screenshot / gif if necessary)
 
 ### After
 
 Here goes what the application does after the new changes.
+(Add screenshot / gif if necessary)
 
 ### How to test / reproduce
 
