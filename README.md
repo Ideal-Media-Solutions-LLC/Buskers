@@ -1,3 +1,4 @@
+<!-- Add badges here -->
 # Client Project Template
 
 <!-- TABLE OF CONTENTS -->
