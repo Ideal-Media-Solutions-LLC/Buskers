@@ -1,6 +1,6 @@
 ## Rest API
 
-### /v1/:campus/:cohort
+### /v1/
 
 *Access is restricted based on the cohorts of which the user has visibility based on github team visibility*
 
