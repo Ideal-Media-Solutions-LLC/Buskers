@@ -2,6 +2,12 @@
 
 _Your guide to getting the tests and services inside `./modules` working_
 
+
+*Other examples:* 
+
+https://github.com/componentjs/guide/blob/master/component/getting-started.md
+https://github.com/documentationjs/documentation/blob/master/docs/GETTING_STARTED.md
+
 ## External dependencies:
 
 You will need a `.env` file with a value for `GITHUB_TOKEN` in the `./modules` directory. see [./modules/example.env](modules/example.env)
